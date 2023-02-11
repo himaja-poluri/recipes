@@ -1,0 +1,16 @@
+AC_INIT([hello-isar],[0.3])
+AM_INIT_AUTOMAKE(1.10 nostdinc foreign)
+AC_CONFIG_HEADERS([config.h])
+
+AM_MAINTAINER_MODE([disable])
+
+AC_PREREQ(2.59)
+
+AC_PROG_CC
+AM_PROG_CC_C_O
+
+m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
+
+AC_CONFIG_FILES(Makefile)
+
+AC_OUTPUT

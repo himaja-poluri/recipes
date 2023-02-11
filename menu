@@ -1,0 +1,2 @@
+?package(hello-isar):needs="X11|text|vc|wm" section="Applications/text"\
+  title="hello-isar" command="/usr/bin/hello-isar"

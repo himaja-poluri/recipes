@@ -1,0 +1,17 @@
+hello-isar (0.3) unstable; urgency=low
+
+  * Rename to hello-isar to avoid collisions with Debian Hello.
+
+ -- Maxim Yu. Osipov <mosipov@ilbers.de>  Fri, 18 Jan 2019 12:00:00 +0100
+
+hello (0.2) unstable; urgency=low
+
+  * Add libhello dependency.
+
+ -- Alexander Smirnov <asmirnov@ilbers.de>  Mon, 22 Jan 2018 20:00:00 +0100
+
+hello (0.1+g7f35942-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Baurzhan Ismagulov <ibr@radix50.net>  Fri, 25 Mar 2016 17:11:00 +0100
