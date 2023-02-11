@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	#say_hello();
+	//say_hello();
 	printf("please run for god's sake");
 	return 0;
 }
